@@ -34,14 +34,14 @@ Planet Pack needed-
 ECSS by ilikespace
 
 Custom Parts needed-
-Procedural Parts(new pack)
+Procedural Parts(removed update and v1.4.5),
 Explorer's Ultimate Pack
 
 Texture Packs needed-
-Beautiful Rocketry
-PEx Shapes+
-Hide textures
-Hggghhf by ilikespace
+Beautiful Rocketry,
+PEx Shapes+,
+Hide textures,
+Hggghhf by ilikespace,
 Idk1's Miscellaneous
 
 1. Custom Parts and Texture Packs not mentioned in the list can be requested to be added however it needs to be approved by Idk1 / Unknown_527 and ilikespace. Everyone in the Multiplayer would need the Custom Parts(and texture packs) so it is discussed.
