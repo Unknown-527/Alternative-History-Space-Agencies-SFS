@@ -3,17 +3,19 @@ Last updated launch - 68
 Agencies-
 Agency - owner(s) - IRL counterpart - launches(success/failure)
 
-Comunist Space Administration(CSA) - Unknown_527 - Roscosmos - 28/6
+National Space Aeronautics(NSA) - Idk1(retired), Axioms - NASA - 15/2, 1/0
+Comunist Space Administration(CSA) - Unknown_527 - Roscosmos - 29/7
 Untitled Aerospace(UA)- ilikespace - Virgin Galactic - 6/4
 Canadian Spatial Research Program(CSRP) - jansuki - All Canadian Private Agencies - 1/0
 National Macanautics Agency(NMA) - Macanautics - ESA - 2/0
 Reusable Space Agency(RSA) - Roshan - SpaceX - 3/0
-?National Space Aeronautics(NSA) - Idk1(retired), Axioms - NASA - 15/2, 0/0
 ?Ingenuity Space(IS) - Idk1 - Relativity Space - 0/0
 ?Fireworks Aerospace(FA)(10 Spetember) - ILoveMEMES - Firefly Aerospace - 0/0
+?Indian Space Administration(ISA)(10 October) - Unknown_527 - 0/0
 
 Factions-
 RSA - RSA+NSA
+Indo-Communist Space Research Organisation(ISRO) - CSA + ISA
 
 Launches-
 
@@ -86,3 +88,6 @@ Sl no.| Mission name      | Objective                    | Agency | Status
 66    | Vega-Sat 1 and 2  | Orbital Sat                  | NMA    | Success
 67    | Amur 1            | Hover Test                   | CSA    | Success
 68    | Amur 2            | Test landing                 | CSA    | Failure
+69    | Amur 3            | Test landing                 | CSA    | Success
+70    | Amur 4            | Test landing                 | CSA    | Failure
+71    | STV 1             | Test flight & Payload        | NSA    | Success
