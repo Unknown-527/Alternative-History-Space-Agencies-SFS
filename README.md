@@ -31,20 +31,7 @@ D. Factions Rules-
 
 E. Multiplayer World-
 There is a multiplayer world based on quicksave sharing where all members can do cooperative launches.
-
-Planet Pack needed-
-ECSS by ilikespace
-
-Custom Parts needed-
-Procedural Parts(removed update and v1.4.5),
-Explorer's Ultimate Pack
-
-Texture Packs needed-
-Beautiful Rocketry,
-PEx Shapes+,
-Hide textures,
-Hggghhf by ilikespace,
-Idk1's Miscellaneous
+Look in Downloads and other info.txt for world, custom parts and texture packs. 
 
 1. Custom Parts and Texture Packs not mentioned in the list can be requested to be added however it needs to be approved by Idk1 / Unknown_527 and ilikespace. Everyone in the Multiplayer would need the Custom Parts(and texture packs) so it is discussed.
 2. Although of Rule E1, Texture packs other than those mentioned in the list can be used but they won't show up for those without it hence not recommended.
