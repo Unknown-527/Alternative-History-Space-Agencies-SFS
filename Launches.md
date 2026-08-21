@@ -1,40 +1,42 @@
 Last updated launch - 68
 
 Agencies-
-Agency - owner(s) - IRL counterpart - launches(success/failure)
-
-National Space Aeronautics(NSA) - Idk1(retired), Axioms - NASA - 15/2, 1/0
-Comunist Space Administration(CSA) - Unknown_527 - Roscosmos - 29/7
-Untitled Aerospace(UA)- ilikespace - Virgin Galactic - 6/4
-Canadian Spatial Research Program(CSRP) - jansuki - All Canadian Private Agencies - 1/0
-National Macanautics Agency(NMA) - Macanautics - ESA - 2/0
-Reusable Space Agency(RSA) - Roshan - SpaceX - 3/0
-?Ingenuity Space(IS) - Idk1 - Relativity Space - 0/0
-?Fireworks Aerospace(FA)(10 Spetember) - ILoveMEMES - Firefly Aerospace - 0/0
-?Indian Space Administration(ISA)(10 October) - Unknown_527 - 0/0
+| Agency | Owner(s) | IRL Counterpart | Launches(success/failure) |
+| :--- | :---: | :---: | :---: |
+| National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 15/2, 1/0
+| Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 29/7
+|Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 6/4
+|Canadian Spatial Research Program(CSRP) | jansuki | All Canadian Private Agencies | 1/0
+|National Macanautics Agency(NMA) | Macanautics | ESA | 2/0
+|Reusable Space Agency(RSA) | Roshan | SpaceX | 3/0
+|?Ingenuity Space(IS) | Idk1 | Relativity Space | 0/0
+|?Fireworks Aerospace(FA)(10 Spetember) | ILoveMEMES | Firefly Aerospace | 0/0
+|?Indian Space Administration(ISA)(10 October) | Unknown_527 | ISRO | 0/0
 
 Factions-
-RSA - RSA+NSA
-Indo-Communist Space Research Organisation(ISRO) - CSA + ISA
+1. RSA - RSA+NSA
+2. Indo-Communist Space Research Organisation(ISRO) - CSA + ISA
 
 Launches-
 
-Sl no.| Mission name      | Objective                    | Agency | Status
-1     | Aggregrat A-4C    | Suborbital research          | NSA    | Success
-2     | A4C-Corporal      | Suborbital missile           | NSA    | Success
-3     | R7 ICBM           | Suborbital missile           | CSA    | Partial-success
-4     | Pollux 1          | Demo launch                  | UA     | Failure
-5     | Sputnik 1         | Orbital Sat                  | CSA    | Failure
-6     | Sputnik 2         | Orbital Sat                  | CSA    | Failure
-7     | Pollux 2          | Suborbital demo              | UA     | Success
-8     | Skyguard          | Orbital Sat                  | NSA    | Failure
-9     | Sputnik 3         | Orbital Sat                  | CSA    | Success
-10    | Pollux 3          | Suborbital research          | UA     | Success
-11    | Sputnik 4         | Orbital Research             | CSA    | Success
-12    | Discoverer        | Orbital Sat                  | NSA    | Success
-13    | Discoverer 2      | Atmospheric Research         | NSA    | Success
-14    | Little Bob        | LES Test                     | NSA    | Success
-15    | Sputnik 5         | Orbital+Atmospheric Research | CSA    | Partial-failure
+
+| Sl no. | Mission name | Objective | Agency | Status |
+| :--- | :--- | :--- | :---: | :---: |
+1 | Aggregrat A-4C    | Suborbital research          | NSA    | Success|
+2 | A4C-Corporal      | Suborbital missile           | NSA    | Success|
+3 | R7 ICBM           | Suborbital missile           | CSA    | Partial-success|
+4 | Pollux 1          | Demo launch                  | UA     | Failure|
+5 | Sputnik 1         | Orbital Sat                  | CSA    | Failure|
+6 | Sputnik 2         | Orbital Sat                  | CSA    | Failure|
+7 | Pollux 2          | Suborbital demo              | UA     | Success|
+8 | Skyguard          | Orbital Sat                  | NSA    | Failure|
+9 | Sputnik 3         | Orbital Sat                  | CSA    | Success|
+10 | Pollux 3          | Suborbital research          | UA     | Success|
+11 | Sputnik 4         | Orbital Research             | CSA    | Success|
+12 | Discoverer        | Orbital Sat                  | NSA    | Success|
+13 | Discoverer 2      | Atmospheric Research         | NSA    | Success|
+14 | Little Bob        | LES Test                     | NSA    | Success|
+15 | Sputnik 5         | Orbital+Atmospheric Research | CSA    | Partial-failure
 16    | Sputnik 6         | Orbital+Atmospheric Research | CSA    | Success
 17    | Atlas ICBM        | Crewed Orbital Return        | NSA    | Success
 18    | Pollux 4          | Orbital Sat                  | UA     | Failure
