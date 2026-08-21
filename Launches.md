@@ -1,78 +1,76 @@
-Last updated launch - 68
-
-Agencies-
-| Agency | Owner(s) | IRL Counterpart | Launches(success/failure) |
+# Agencies-
+| Agency | Owner(s) | IRL Counterpart | Launches |
 | :--- | :---: | :---: | :---: |
-| National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 15/2, 1/0
-| Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 29/7
-|Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 6/4
-|Canadian Spatial Research Program(CSRP) | jansuki | All Canadian Private Agencies | 1/0
-|National Macanautics Agency(NMA) | Macanautics | ESA | 2/0
-|Reusable Space Agency(RSA) | Roshan | SpaceX | 3/0
-|?Ingenuity Space(IS) | Idk1 | Relativity Space | 0/0
-|?Fireworks Aerospace(FA)(10 Spetember) | ILoveMEMES | Firefly Aerospace | 0/0
-|?Indian Space Administration(ISA)(10 October) | Unknown_527 | ISRO | 0/0
+National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 17, 1
+Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 36
+Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 10
+Canadian Spatial Research Program(CSRP) | jansuki | All Canadian Private Agencies | 1
+National Macanautics Agency(NMA) | Macanautics | ESA | 2
+Reusable Space Agency(RSA) | Roshan | SpaceX | 3
+?Ingenuity Space(IS) | Idk1 | Relativity Space | 0
+?Fireworks Aerospace(FA)(10 Spetember) | ILoveMEMES | Firefly Aerospace | 0
+?Indian Space Administration(ISA)(10 October) | Unknown_527 | ISRO | 0
 
-Factions-
+# Factions-
 1. RSA - RSA+NSA
 2. Indo-Communist Space Research Organisation(ISRO) - CSA + ISA
 
 Launches-
 
 
-| Sl no. | Mission name | Objective | Agency | Status |
-| :--- | :--- | :--- | :---: | :---: |
-1 | Aggregrat A-4C    | Suborbital research          | NSA    | Success|
-2 | A4C-Corporal      | Suborbital missile           | NSA    | Success|
-3 | R7 ICBM           | Suborbital missile           | CSA    | Partial-success|
-4 | Pollux 1          | Demo launch                  | UA     | Failure|
-5 | Sputnik 1         | Orbital Sat                  | CSA    | Failure|
-6 | Sputnik 2         | Orbital Sat                  | CSA    | Failure|
-7 | Pollux 2          | Suborbital demo              | UA     | Success|
-8 | Skyguard          | Orbital Sat                  | NSA    | Failure|
-9 | Sputnik 3         | Orbital Sat                  | CSA    | Success|
-10 | Pollux 3          | Suborbital research          | UA     | Success|
-11 | Sputnik 4         | Orbital Research             | CSA    | Success|
-12 | Discoverer        | Orbital Sat                  | NSA    | Success|
-13 | Discoverer 2      | Atmospheric Research         | NSA    | Success|
-14 | Little Bob        | LES Test                     | NSA    | Success|
-15 | Sputnik 5         | Orbital+Atmospheric Research | CSA    | Partial-failure
-16    | Sputnik 6         | Orbital+Atmospheric Research | CSA    | Success
-17    | Atlas ICBM        | Crewed Orbital Return        | NSA    | Success
-18    | Pollux 4          | Orbital Sat                  | UA     | Failure
-19    | Lunar 1           | Lunar Flyby                  | CSA    | Success
-20    | Lunar 2           | Lunar Impactor               | CSA    | Success
-21    | Tundra 1          | Suborbital+Atmo research     | CRSP   | Partial success
-22    | Pioneer A0        | Lunar Orbitor                | NSA    | Success
-23    | Pioneer A1        | Lunar Orbitor                | NSA    | Partial failure
-24    | Voskhod 1         | Demo Orbital Return          | CSA    | Success
-25    | Voskhod 2         | Crewed Orbital Return        | CSA    | Success
-26    | Pioneer B0        | Lunar Orbitor                | NSA    | Success
-27    | Hades 1           | Crewed Orbital return        | NSA    | Partial success
-28    | Pioneer C0        | Lunar landing                | NSA    | Success
-29    | Pollux 4-1        | Orbital Launch               | UA     | Failure
-30    | Lunar 3           | Lunar landing                | CSA    | Partial success
-31    | Hope 1            | Old rescue(was no. 12, lost) | CSA    | Success
-32    | Lunar 4           | Lunar landing                | CSA    | Success
-33    | Pollux 4-2        | Orbital Launch               | UA     | Failure
-34    | Lunar Orbiter 1   | Lunar Orbiter                | NSA    | Success
-35    | Soyuz 1           | Test flight                  | CSA    | Success
-36    | Pollux 5          | Orbital Sat                  | UA     | Success
-37    | Soyuz 2a          | Crewed return+docking        | CSA    | Success
-38    | Soyuz 2b          | Crewed orbit+docking         | CSA    | Success
-39    | Hades-2           | Test flight                  | NSA    | Success
-40    | Lunar 5           | Lunar Orbiter Telescope      | CSA    | Success
-41    | Proton 1          | Demo Sat                     | CSA    | Success
-42    | Hades-3           | Crewed orbital return        | NSA    | Success
-43    | Eagle I           | Orbital Sat                  | RSA    | Success
-44    | Salute 1          | Space Station                | CSA    | Success
-45    | Pollux 6          | Mars+Deimos Flyby            | UA     | Partial success
-46    | Eagle III         | Orbital Sat                  | RSA    | Success
-47    | Venus 1           | Venus Atmosphere Research    | CSA    | Success
-48    | Soyuz-Proton      | Test flight                  | CSA    | Failure
-49    | Unmanned L1       | Lunar Flyby+Return           | CSA    | Success
-50    | Soyuz 3           | Station mission              | CSA    | Success
-51    | Eagle Heavy       | 50 tons of fuel              | RSA    | Success
+Sl no. | Mission name | Objective | Agency | Status
+:--- | :--- | :--- | :---: | :---:
+1 | Aggregrat A-4C | Suborbital research | NSA    | Success
+2 | A4C-Corporal | Suborbital missile | NSA    | Success
+3 | R7 ICBM | Suborbital missile | CSA    | Partial-success
+4 | Pollux 1 | Demo launch | UA     | Failure
+5 | Sputnik 1 | Orbital Sat | CSA    | Failure
+6 | Sputnik 2 | Orbital Sat | CSA    | Failure
+7 | Pollux 2 | Suborbital Demo | UA     | Success
+8 | Skyguard | Orbital Sat | NSA    | Failure
+9 | Sputnik 3 | Orbital Sat | CSA    | Success
+10 | Pollux 3 | Suborbital Research | UA     | Success
+11 | Sputnik 4 | Orbital Research | CSA    | Success
+12 | Discoverer | Orbital Sat | NSA    | Success
+13 | Discoverer 2 | Atmospheric Research | NSA    | Success
+14 | Little Bob | LES Test | NSA | Success
+15 | Sputnik 5 | Orbital and Atmospheric Research | CSA | Partial-failure
+16 | Sputnik 6         | Orbital+Atmospheric Research | CSA    | Success
+17 | Atlas ICBM        | Crewed Orbital Return        | NSA    | Success
+18 | Pollux 4          | Orbital Sat                  | UA     | Failure
+19 | Lunar 1           | Lunar Flyby                  | CSA    | Success
+20 | Lunar 2           | Lunar Impactor               | CSA    | Success
+21 | Tundra 1          | Suborbital+Atmo research     | CRSP   | Partial success
+22 | Pioneer A0        | Lunar Orbitor                | NSA    | Success
+23 | Pioneer A1        | Lunar Orbitor                | NSA    | Partial failure
+24 | Voskhod 1         | Demo Orbital Return          | CSA    | Success
+25 | Voskhod 2         | Crewed Orbital Return        | CSA    | Success
+26 | Pioneer B0        | Lunar Orbitor                | NSA    | Success
+27 | Hades 1           | Crewed Orbital return        | NSA    | Partial success
+28 | Pioneer C0        | Lunar landing                | NSA    | Success
+29 | Pollux 4-1        | Orbital Launch               | UA     | Failure
+30 | Lunar 3           | Lunar landing                | CSA    | Partial success
+31 | Hope 1            | Old rescue(was no. 12, lost) | CSA    | Success
+32 | Lunar 4           | Lunar landing                | CSA    | Success
+33 | Pollux 4-2        | Orbital Launch               | UA     | Failure
+34 | Lunar Orbiter 1   | Lunar Orbiter                | NSA    | Success
+35 | Soyuz 1           | Test flight                  | CSA    | Success
+36 | Pollux 5          | Orbital Sat                  | UA     | Success
+37 | Soyuz 2a          | Crewed return+docking        | CSA    | Success
+38 | Soyuz 2b          | Crewed orbit+docking         | CSA    | Success
+39 | Hades-2           | Test flight                  | NSA    | Success
+40 | Lunar 5           | Lunar Orbiter Telescope      | CSA    | Success
+41 | Proton 1          | Demo Sat                     | CSA    | Success
+42 | Hades-3           | Crewed orbital return        | NSA    | Success
+43 | Eagle I           | Orbital Sat                  | RSA    | Success
+44 | Salute 1          | Space Station                | CSA    | Success
+45 | Pollux 6          | Mars+Deimos Flyby            | UA     | Partial success
+46 | Eagle III         | Orbital Sat                  | RSA    | Success
+47 | Venus 1           | Venus Atmosphere Research    | CSA    | Success
+48 | Soyuz-Proton      | Test flight                  | CSA    | Failure
+49 | Unmanned L1       | Lunar Flyby+Return           | CSA    | Success
+50 | Soyuz 3           | Station mission              | CSA    | Success
+51 | Eagle Heavy       | 50 tons of fuel              | RSA    | Success
 52    | Unmanned HS 202   | Lunar orbit+return           | NSA    | Success
 53    | L1                | Crewed Lunar Flyby           | CSA    | Success
 54    | Lunar 6           | Lunar Sample Return          | CSA    | Success
