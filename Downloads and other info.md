@@ -27,13 +27,13 @@ c. Multiplayer world-
 
   3. Custom Parts needed-
 
-    i Procedural Parts(v1.4.5. and v1.5)
-    ii. Explorer's Ultimate Pack
+    Procedural Parts(v1.4.5. and v1.5)
+    Explorer's Ultimate Pack
 
   3. Texture Packs needed-
  
-    i.   Beautiful Rocketry
-    ii.  PEx Shapes+
-    iii. Hide textures
-    iv.  Hggghhf by ilikespace
-    v.   Idk1's Miscellaneous
+    Beautiful Rocketry
+    PEx Shapes+
+    Hide textures
+    Hggghhf by ilikespace
+    Idk1's Miscellaneous
