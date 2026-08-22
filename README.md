@@ -99,3 +99,4 @@ Sl no. | Mission name | Objective | Agency | Status
 72 | Salute 1c | Station Mission by CSA | RSA | Success
 73 | Salute 1d | Station Mission by CSA | RSA | Success
 74 | Pollux 9 | No Info | UA | Failure
+75 | Pollux 10 | Mars rover | UA | Success
