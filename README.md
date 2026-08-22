@@ -8,7 +8,7 @@ We are Alternative Versions of IRL Agencies.
 | :--- | :---: | :---: | :---: |
 National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 17, 1
 Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 36
-Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 10
+Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 11
 Canadian Spatial Research Program(CSRP) | jansuki | All Canadian Private Agencies | 1
 National Macanautics Agency(NMA) | Macanautics | ESA | 2
 Reusable Space Agency(RSA) | Roshan | SpaceX | 5
@@ -98,3 +98,4 @@ Sl no. | Mission name | Objective | Agency | Status
 71 | STV 1 | Test Flight & Payload | NSA | Success
 72 | Salute 1c | Station Mission by CSA | RSA | Success
 73 | Salute 1d | Station Mission by CSA | RSA | Success
+74 | Pollux 9 | No Info | UA | Failure
