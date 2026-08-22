@@ -1,8 +1,3 @@
-# Alternative History Space Agencies SFS
-The repository to keep data from the Alternative History Space Agencies RP
-
-We are alternate versions of IRL Space Agencies
-
 A. General Rules:
 
 1. All rockets should be inspired by IRL counterparts of your counterpart agency, they can be modified further as to expand upon Alternative part
