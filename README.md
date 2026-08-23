@@ -1,6 +1,8 @@
 # Alternative History Space Agencies RP
 A repo for keeping Roleplay data. For rules, see Rules.md above.
 
+Started by Idk1 and Unknown_527(The moderators of the RP, can inspect a launch when needed)
+
 We are Alternative Versions of IRL Agencies.
 
 # Agencies-
