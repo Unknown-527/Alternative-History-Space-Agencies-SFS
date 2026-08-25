@@ -6,7 +6,7 @@ A. General Rules:
 4. If you want to switch agencies with someone,both players must approve.
 5. You may roleplay any IRL agency with whichever name you want but let us know your IRL counterpart. However the agency must not be taken already.
 6. The allowed downloads differ for Multiplayer World(see in downloads and other info)
-7. One should try not to make another agency's rocket if they run out of their agency's rockets unless in a faction. They may instead modify their existing rockets with better funcionalities.
+7. One should try not to make another agency's rocket if they run out of their agency's rockets unless in a faction. They may instead modify their existing rockets with better functionalities and features as the alternative part of this RP.
 
 B. File info-
 
