@@ -5,8 +5,8 @@ A. General Rules:
 3. No unrealistic progresess, like no instant Moon landing, mars station, or Nuclear Engines.
 4. If you want to switch agencies with someone,both players must approve.
 5. You may roleplay any IRL agency with whichever name you want but let us know your IRL counterpart. However the agency must not be taken already.
-6. The allowed downloads differ for Multiplayer World(see E)
-7. Everything on this post will be edited rarely so some rules and download allowed for Multiplayer World will not be available. If someone joins, in this case, they will be given the new rules and downloads allowed list separately
+6. The allowed downloads differ for Multiplayer World(see in downloads and other info)
+7. One should try not to make another agency's rocket if they run out of their agency's rockets unless in a faction. They may instead modify their existing rockets with better funcionalities.
 
 B. File info-
 
