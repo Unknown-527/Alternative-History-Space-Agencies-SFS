@@ -27,7 +27,7 @@ c. Multiplayer world-
 
   3. Custom Parts needed-
 
-    Procedural Parts(v1.4.5. and v1.5)
+    Procedural Parts(v1.4.5. and/or v1.5)
     Explorer's Ultimate Pack
 
   3. Texture Packs needed-
