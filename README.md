@@ -9,7 +9,7 @@ We are Alternative Versions of IRL Agencies.
 | Agency | Owner(s) | IRL Counterpart | Launches |
 | :--- | :---: | :---: | :---: |
 National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 17, 1
-Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 37
+Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 38
 Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | jansuki | All Canadian Private Agencies | 1
 National Macanautics Agency(NMA) | Macanautics | ESA | 2
@@ -103,3 +103,4 @@ Sl no. | Mission name | Objective | Agency | Status
 74 | Pollux 9 | No Info | UA | Failure
 75 | Pollux 10 | Mars rover | UA | Success
 76 | ADS 1 | Orbital Defense System | CSA | Success
+77 | Buran 1 | Test Flight | CSA | Success
