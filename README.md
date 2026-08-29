@@ -8,12 +8,12 @@ We are Alternative Versions of IRL Agencies.
 # Agencies-
 | Agency | Owner(s) | IRL Counterpart | Launches |
 | :--- | :---: | :---: | :---: |
-National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 17, 1
+National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 17 + 1
 Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 38
 Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | jansuki | All Canadian Private Agencies | 1
-National Macanautics Agency(NMA) | Macanautics | ESA | 2
 Reusable Space Agency(RSA) | Roshan | SpaceX | 5
+National Macanautics Agency(NMA) | Macanautics(retired) | ESA | 2
 ?Ingenuity Space(IS) | Idk1 | Relativity Space | 0
 ?Fireworks Aerospace(FA)(10 Spetember) | ILoveMEMES | Firefly Aerospace | 0
 ?Indian Space Administration(ISA)(10 October) | Unknown_527 | ISRO | 0
