@@ -103,3 +103,4 @@ Sl no. | Mission name | Objective | Agency | Status
 76 | ADS 1 | Orbital Defense System | CSA | Success
 77 | Buran 1 | Test Flight | CSA | Success
 78 | Soyuz 4 | Station Mission | CSA | Ongoing
+79 | Buran 2 | Station Mission | CSA | Ongoing
