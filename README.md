@@ -9,7 +9,7 @@ We are Alternative Versions of IRL Agencies.
 | Agency | Owner(s) | IRL Counterpart | Launches |
 | :--- | :---: | :---: | :---: |
 National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 17 + 1
-Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 39
+Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 40
 Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | jansuki | All Canadian Private Agencies | 1
 Reusable Space Agency(RSA) | Roshan | SpaceX | 5
