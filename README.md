@@ -13,13 +13,13 @@ Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 40
 Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | jansuki | All Canadian Private Agencies | 1
 Reusable Space Agency(RSA) | Roshan | SpaceX | 5
+Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
 National Macanautics Agency(NMA) | Macanautics(retired) | ESA | 2
 ?Ingenuity Space(IS) | Idk1 | Relativity Space | 0
 ?Fireworks Aerospace(FA)(10 Spetember) | ILoveMEMES | Firefly Aerospace | 0
-?Indian Space Administration(ISA)(10 October) | Unknown_527 | ISRO | 0
 
 # Factions-
-1. RSA - RSA+NSA
+1. RSA - RSA + NSA
 2. Indo-Communist Space Research Organisation(ISRO) - CSA + ISA
 
 # Launches-
@@ -104,3 +104,4 @@ Sl no. | Mission name | Objective | Agency | Status
 77 | Buran 1 | Test Flight | CSA | Success
 78 | Soyuz 4 | Station Mission | CSA | Ongoing
 79 | Buran 2 | Station Mission | CSA | Success
+80 | Martian Orbiter Mission | Mars Orbit, Deimos and Phobos Flyby | ISA | Success
