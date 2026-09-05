@@ -39,13 +39,13 @@ Sl no. | Mission name | Objective | Agency | Status
 12 | Discoverer | Orbital Sat | NSA | Success
 13 | Discoverer 2 | Atmospheric Research | NSA | Success
 14 | Little Bob | LES Test | NSA | Success
-15 | Sputnik 5 | Orbital and Atmospheric Research | CSA | Partial-failure
+15 | Sputnik 5 | Orbital and Atmospheric Research | CSA | Partial failure
 16 | Sputnik 6 | Orbital and Atmospheric Research | CSA | Success
 17 | Atlas ICBM | Crewed Orbital Return | NSA | Success
 18 | Pollux 4 | Orbital Sat | UA | Failure
 19 | Lunar 1 | Lunar Flyby | CSA | Success
 20 | Lunar 2 | Lunar Impactor | CSA | Success
-21 | Tundra 1 | Suborbital and Atmospheric research | CRSP | Partial success
+21 | Tundra 1 | Orbital Probe | CRSP | Partial failure
 22 | Pioneer A0 | Lunar Orbiter | NSA | Success
 23 | Pioneer A1 | Lunar Orbiter | NSA | Partial failure
 24 | Voskhod 1 | Demo Orbital Return | CSA | Success
