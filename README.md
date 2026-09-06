@@ -9,7 +9,7 @@ We are Alternative Versions of IRL Agencies.
 | Agency | Owner(s) | IRL Counterpart | Launches |
 | :--- | :---: | :---: | :---: |
 National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 17 + 1
-Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 40
+Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 41
 Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | velsuki | All Canadian Private Agencies | 1
 Reusable Space Agency(RSA) | Roshan | SpaceX | 5
@@ -104,4 +104,5 @@ Sl no. | Mission name | Objective | Agency | Status
 77 | Buran 1 | Test Flight | CSA | Success
 78 | Soyuz 4 | Station Mission | CSA | Ongoing
 79 | Buran 2 | Station Mission | CSA | Success
-80 | Martian Orbiter Mission | Mars Orbit, Deimos and Phobos Flyby | ISA | Success
+80 | Martian Orbiter Mission | Mars Orbit, Deimos and Phobos Flyby | ISRO | Success
+81 | Lunar 10 | Crewed Lunar Landing and Return | CSA | Success
