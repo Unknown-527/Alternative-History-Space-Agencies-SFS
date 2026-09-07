@@ -1,4 +1,4 @@
-A. General Rules:
+## A. General Rules:
 
 1. All rockets should be inspired by IRL counterparts of your counterpart agency, they can be modified further as to expand upon Alternative part
 2. First launch is approved by Idk1 or Unknown_527. Later launches can be checked if needed.
@@ -6,25 +6,20 @@ A. General Rules:
 4. If you want to switch agencies with someone,both players must approve.
 5. You may roleplay any IRL agency with whichever name you want but let us know your IRL counterpart. However the agency must not be taken already.
 6. The allowed downloads differ for Multiplayer World(see in downloads and other info)
-7. One should try not to make another agency's rocket if they run out of their agency's rockets unless in a faction. They may instead modify their existing rockets with better functionalities and features as the alternative part of this RP.
+7. One should try not to make another agency's rocket if they run out of their agency's rockets unless in a faction. They may instead modify their existing rockets with better functionalities and features as the alternative part of this RP. 
 
-B. File info-
-
-1. The Launches.txt file is updated every fifth launches by Unknown_527 however you can suggest an edit regarding any misconception.
-2. The Launches.txt contains name of all the agencies currently enrolled in the RP as well as their launches(success/failure both).
-
-C. Inactivity rule
+## B. Inactivity rule
 
 1. Agencies that have not launched anything are marked by (?) at start. They are expected to do at a launch within 45 days of their joining.
 2. Agencies can go with a minimum one launch in 90 days after first launch.
 3. Failing to follow the inactivity rule leads to your agency being open for someone to take and continue without your prior permission. However exception are sometimes allowed if told.
 
-D. Factions Rules-
+## C. Factions Rules-
 
 1. Factions can be formed and collab using quicksave sharing and may maintain a single world and cooperate on Custom parts/Texture packs/Solar systems. However they must refer to allowed downloads.
 2.In factions(if formed) if one member posts then the all agencies/people in the faction are safe from inactivity rule.
 
-E. Multiplayer World-
+## D. Multiplayer World-
 There is a multiplayer world based on quicksave sharing where all members can do cooperative launches.
 Look in Downloads and other info.txt for world, custom parts and texture packs. 
 
@@ -35,3 +30,6 @@ Look in Downloads and other info.txt for world, custom parts and texture packs.
 5. Quicksaves should be provided every launch in this world.
 6. It is recommended to let the others know when you are going to do a mission to prevent multiple different quicksaves.
 7. Only rockets that are to be kept should be renamed, others are deleted to reduce file size.
+8. The additional texture packs not on the forum is attached in the releases section of this repository
+9. The Latest uploaded Quicksave is also uploaded in the releases as a single release.
+10. The Latest uploaded Quicksave in the releases is uploaded and the previous one removed every time I can regardless of the actual release being shown long ago
