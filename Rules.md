@@ -6,20 +6,33 @@
 4. If you want to switch agencies with someone,both players must approve.
 5. You may roleplay any IRL agency with whichever name you want but let us know your IRL counterpart. However the agency must not be taken already.
 6. The allowed downloads differ for Multiplayer World(see in downloads and other info)
-7. One should try not to make another agency's rocket if they run out of their agency's rockets unless in a faction. They may instead modify their existing rockets with better functionalities and features as the alternative part of this RP. 
+7. One should try not to make another agency's rocket if they run out of their agency's rockets unless in a faction. They may instead modify their existing rockets with better functionalities and features as the alternative part of this RP.
 
-## B. Inactivity rule
+## B. Inactivity rule-
 
-1. Agencies that have not launched anything are marked by (?) at start. They are expected to do at a launch within 45 days of their joining.
-2. Agencies can go with a minimum one launch in 90 days after first launch.
-3. Failing to follow the inactivity rule leads to your agency being open for someone to take and continue without your prior permission. However exception are sometimes allowed if told.
+1. Agencies that have not launched anything are marked by (?) at start. They are expected to do at a launch within 30 days of their joining. 
+2. Agencies can go with a minimum one launch in 60 days after first launch.
+3. For a reasonable problem, the inactivity before first launch can be increased by 1 week at a time.
+4. For a reasonable problem, the inactivity period after first launch can be increased by 15 days at a time.
+5. If the Agency does not do a first launch in the time period, their agency is removed. 
+6. If there is at least one launch, failing to follow the inactivity rule leads to your agency being open for someone to take and continue without your prior permission.
 
-## C. Factions Rules-
+## C. Moderation, Approval and Return-
+
+1. Idk1 and Unknown_527 are the 'moderators' of this RP. They look if the rules are being followed or not.
+2. First launch is approved by Idk1 or Unknown_527. Later launches can be checked if needed.
+3. If the first launch is not approved then it is not added in Launch data, the inactivity period remains the same and is not restarted from 30 days.
+4. If a later launch is not approved then it will labelled as failure in the Launch data and the inactivity period continues instead of restarting from 60 days.
+5. If an Agency was removed by Inactivity rule, and their IRL Agency is not taken by someone then they have to directly do a launch(no reservation) to return. If the mission is not approved then it will be labelled as failure but their Agency will be back to the owner till another inactivity rule strikes.
+6. If an Agency was removed by First Launch Inactivity rule, and their IRL Agency is not taken by someone then they can do a launch(no reservation) to return. However till it is not approved, their Agency won't be added in the data and remains subject to be owned by someone else.
+
+## D. Factions Rules-
 
 1. Factions can be formed and collab using quicksave sharing and may maintain a single world and cooperate on Custom parts/Texture packs/Solar systems. However they must refer to allowed downloads.
 2.In factions(if formed) if one member posts then the all agencies/people in the faction are safe from inactivity rule.
 
-## D. Multiplayer World-
+## E. Multiplayer World-
+
 There is a multiplayer world based on quicksave sharing where all members can do cooperative launches.
 Look in Downloads and other info.txt for world, custom parts and texture packs. 
 
