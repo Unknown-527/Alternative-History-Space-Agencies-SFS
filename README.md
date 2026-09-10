@@ -16,7 +16,6 @@ Reusable Space Agency(RSA) | Roshan | SpaceX | 5
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
 National Macanautics Agency(NMA) | Macanautics(retired) | ESA | 2
 ?Ingenuity Space(IS)(30 September) | Idk1 | Relativity Space | 0
-?Fireworks Aerospace(FA)(10 Spetember) | ILoveMEMES | Firefly Aerospace | 0
 
 # Factions-
 1. RSA - RSA + NSA
