@@ -53,7 +53,7 @@ Sl no. | Mission name | Objective | Agency | Status
 27 | Hades 1 | Crewed Orbital Return | NSA | Partial failure
 28 | Pioneer C0 | Lunar landing | NSA | Success
 29 | Pollux 4-1 | Orbital Launch | UA | Failure
-30 | Lunar 3 | Lunar landing | CSA | Partial success
+30 | Lunar 3 | Lunar landing | CSA | Partial failure
 31 | Hope 1 | Old rescue(was no. 12, lost) | CSA | Success
 32 | Lunar 4 | Lunar landing | CSA | Success
 33 | Pollux 4-2 | Orbital Launch | UA | Failure
