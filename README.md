@@ -14,7 +14,7 @@ Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | velsuki | All Canadian Private Agencies | 1
 Reusable Space Agency(RSA) | Roshan | SpaceX | 5
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
-?Hrvatska Kriki Svemirska Agencija(HKSA)(16 October) | Macanautics(retired), kriki | ESA | 2 + 0
+?Hrvatska Kriki Svemirska Agencija(HKSA)(16 October) | Macanautics(retired), kriki | ESA | 4 + 0
 ?Ingenuity Space(IS)(30 September) | Idk1 | Relativity Space | 0
 
 # Factions-
@@ -89,7 +89,7 @@ Sl no. | Mission name | Objective | Agency | Status
 63 | Salute 1a | Space Station | CSA | Success
 64 | Cosmos 1 | Asteroid Landing | CSA | Success
 65 | Salute 1b | Space Station | CSA | Success
-66 | Vega-Sat 1 and 2 | Orbital Sat | NMA | Success
+66 | Vega-Sat 1 and 2 | Orbital Sat | HKSA | Success
 67 | Amur 1 | Hover Test | CSA | Success
 68 | Amur 2 | Test Landing | CSA | Failure
 69 | Amur 3 | Test Landing | CSA | Success
@@ -107,3 +107,5 @@ Sl no. | Mission name | Objective | Agency | Status
 81 | Lunar 10 | Crewed Lunar Landing and Return | CSA | Success
 82 | Phobos 1 | Phobos Sample Return | CSA | Failure
 83 | PhobosGrunt | Phobos Sample Return | CSA | Success
+84 | Vega II 1 | Crewed Orbital | HKSA | Unknown
+85 | Roman Sat | Orbital Telescope | HKSA | Failure
