@@ -14,7 +14,7 @@ Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | velsuki | All Canadian Private Agencies | 1
 Reusable Space Agency(RSA) | Roshan | SpaceX | 5
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
-National Macanautics Agency(NMA) | Macanautics(retired) | ESA | 2
+?Hrvatska Kriki Svemirska Agencija(HKSA)(16 October) | Macanautics(retired), kriki | ESA | 2 + 0
 ?Ingenuity Space(IS)(30 September) | Idk1 | Relativity Space | 0
 
 # Factions-
@@ -82,7 +82,7 @@ Sl no. | Mission name | Objective | Agency | Status
 56 | Lunar 7 | Lunar Rover | CSA | Success
 57 | N1 test | Test Flight | CSA | Success
 58 | HS 203 | Crewed Lunar Landing | NSA | Success
-59 | Vega III | Space Station | NMA | Success
+59 | Vega III | Space Station | HKSA | Success
 60 | Pollux 8 | Venus Landing | UA | Success
 61 | Lunar 8 | Lunar Rover | CSA | Failure
 62 | Lunar 9 | Lunar Sample Return | CSA | Success
