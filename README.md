@@ -26,7 +26,7 @@ Sl no. | Mission name | Objective | Agency | Status
 :--- | :--- | :--- | :---: | :---:
 1 | Aggregrat A-4C | Suborbital research | NSA | Success
 2 | A4C-Corporal | Suborbital missile | NSA | Success
-3 | R7 ICBM | Suborbital missile | CSA | Partial-success
+3 | R7 ICBM | Suborbital missile | CSA | Partial failure
 4 | Pollux 1 | Demo launch | UA | Failure
 5 | Sputnik 1 | Orbital Sat | CSA | Failure
 6 | Sputnik 2 | Orbital Sat | CSA | Failure
@@ -50,7 +50,7 @@ Sl no. | Mission name | Objective | Agency | Status
 24 | Voskhod 1 | Demo Orbital Return | CSA | Success
 25 | Voskhod 2 | Crewed Orbital Return | CSA | Success
 26 | Pioneer B0 | Lunar Orbiter | NSA | Success
-27 | Hades 1 | Crewed Orbital Return | NSA | Partial success
+27 | Hades 1 | Crewed Orbital Return | NSA | Partial failure
 28 | Pioneer C0 | Lunar landing | NSA | Success
 29 | Pollux 4-1 | Orbital Launch | UA | Failure
 30 | Lunar 3 | Lunar landing | CSA | Partial success
@@ -68,7 +68,7 @@ Sl no. | Mission name | Objective | Agency | Status
 42 | Hades-3 | Crewed Orbital Return | NSA | Success
 43 | Eagle I | Orbital Sat | RSA | Success
 44 | Salute 1 | Space Station | CSA | Success
-45 | Pollux 6 | Mars and Deimos Flyby | UA | Partial success
+45 | Pollux 6 | Mars and Deimos Flyby | UA | Partial failure
 46 | Eagle III | Orbital Sat | RSA | Success
 47 | Venus 1 | Venus Atmosphere Research | CSA | Success
 48 | Soyuz-Proton | Test flight | CSA | Failure
