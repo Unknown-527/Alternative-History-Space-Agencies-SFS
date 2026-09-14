@@ -110,4 +110,4 @@ Sl no. | Mission name | Objective | Agency | Status
 84 | Vega II 1 | Crewed Orbital | HKSA | Unknown
 85 | Roman Sat | Orbital Telescope | HKSA | Failure
 86 | TMK 1 | Crewed Mars Flyby and Probe Landing | CSA | Ongoing
-87 | Soyuz 5 | Crewed Docking | CSA | Ongoing
+87 | Soyuz 5 | Crewed Docking | CSA | Success
