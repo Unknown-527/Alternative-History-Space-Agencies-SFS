@@ -14,9 +14,9 @@ Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | velsuki | All Canadian Private Agencies | 1
 Reusable Space Agency(RSA) | Roshan | SpaceX | 5
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
+American Launch Alliance(ALA) | sodiumbiscuits | ULA | 1
 ?Hrvatska Kriki Svemirska Agencija(HKSA)(16 October) | Macanautics(retired), kriki | ESA | 4 + 0
 ?Ingenuity Space(IS)(30 September) | Idk1 | Relativity Space | 0
-?American Launch Alliance(ALA)(19 October) | sodiumbiscuits | ULA | 0
 
 # Factions-
 1. RSA - RSA + NSA
@@ -112,3 +112,4 @@ Sl no. | Mission name | Objective | Agency | Status
 85 | Roman Sat | Orbital Telescope | HKSA | Failure
 86 | TMK 1 | Crewed Mars Flyby and Probe Landing | CSA | Success
 87 | Soyuz 5 | Crewed Docking | CSA | Success
+88 | Atlas 1 | Suborbital launch | ALA | Success
