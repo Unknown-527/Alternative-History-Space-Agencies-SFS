@@ -16,7 +16,7 @@ Reusable Space Agency(RSA) | Roshan | SpaceX | 5
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
 American Launch Alliance(ALA) | sodiumbiscuits | ULA | 3
 ?Hrvatska Kriki Svemirska Agencija(HKSA)(16 October) | Macanautics(retired), kriki | ESA | 4 + 0
-?Ingenuity Space(IS)(30 September) | Idk1 | Relativity Space | 0
+Ingenuity Space(IS) | Idk1 | Relativity Space | 1
 
 # Factions-
 1. RSA - RSA + NSA
@@ -115,3 +115,4 @@ Sl no. | Mission name | Objective | Agency | Status
 88 | Atlas 1 | Suborbital launch | ALA | Success
 89 | Satellite 1 | Orbital Sat | ALA | Success
 90 | Satellite 2 | Orbital Sat | ALA | Failure
+91 | Good Luck 1 | Orbital Launch | IS | Partial Failure
