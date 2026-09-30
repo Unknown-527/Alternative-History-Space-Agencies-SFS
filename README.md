@@ -121,4 +121,4 @@ Sl no. | Mission name | Objective | Agency | Status
 94 | Soyuz 6 | Crewed Docking | CSA | Success
 95 | Soyuz 7 | Crewed Docking | CSA | Success
 96 | Soyuz 8 | Cargo Transfer | CSA | Success
-92-96 | MEK | Crewed Mars Expedition | CSA | Ongoing
+92-96 | MEK | Crewed Mars Expedition | CSA | Success
