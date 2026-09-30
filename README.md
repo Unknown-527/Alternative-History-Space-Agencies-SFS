@@ -115,7 +115,7 @@ Sl no. | Mission name | Objective | Agency | Status
 88 | Atlas 1 | Suborbital launch | ALA | Success
 89 | Satellite 1 | Orbital Sat | ALA | Success
 90 | Satellite 2 | Orbital Sat | ALA | Failure
-91 | Good Luck 1 | Orbital Launch | IS | Partial Failure
+91 | Good Luck 1 | Orbital Launch | IS | Partial failure
 92 | Energia 3 | Orbital Payload | CSA | Success
 93 | Energia 4 | Orbital Payload | CSA | Success
 94 | Soyuz 6 | Crewed Docking | CSA | Success
