@@ -15,7 +15,7 @@ Canadian Spatial Research Program(CSRP) | velsuki | All Canadian Private Agencie
 Reusable Space Agency(RSA) | Roshan | SpaceX | 7
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
 American Launch Alliance(ALA) | sodiumbiscuits | ULA | 3
-?Hrvatska Kriki Svemirska Agencija(HKSA)(16 October) | Macanautics(retired), kriki | ESA | 4 + 1
+Hrvatska Kriki Svemirska Agencija(HKSA) | Macanautics(retired), kriki | ESA | 4 + 1
 Ingenuity Space(IS) | Idk1 | Relativity Space | 1
 
 # Factions-
