@@ -12,10 +12,10 @@ National Space Aeronautics(NSA) | Idk1(retired), Axioms | NASA | 17 + 1
 Comunist Space Administration(CSA) | Unknown_527 | Roscosmos | 50
 Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | velsuki | All Canadian Private Agencies | 1
-Reusable Space Agency(RSA) | Roshan | SpaceX | 5
+Reusable Space Agency(RSA) | Roshan | SpaceX | 7
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
 American Launch Alliance(ALA) | sodiumbiscuits | ULA | 3
-?Hrvatska Kriki Svemirska Agencija(HKSA)(16 October) | Macanautics(retired), kriki | ESA | 4 + 0
+?Hrvatska Kriki Svemirska Agencija(HKSA)(16 October) | Macanautics(retired), kriki | ESA | 4 + 1
 Ingenuity Space(IS) | Idk1 | Relativity Space | 1
 
 # Factions-
@@ -122,3 +122,6 @@ Sl no. | Mission name | Objective | Agency | Status
 95 | Soyuz 7 | Crewed Docking | CSA | Success
 96 | Soyuz 8 | Cargo Transfer | CSA | Success
 92-96 | MEK | Crewed Mars Expedition | CSA | Success
+97 | RSA Arcship | Demo Launch | RSA | Success
+98 | Vega C | Orbital Sat | HKSA | Success
+99 | RSA Contract Launch from UA | Geostationary Sat | RSA | Success
