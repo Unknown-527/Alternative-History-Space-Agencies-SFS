@@ -15,7 +15,7 @@ Canadian Spatial Research Program(CSRP) | velsuki | All Canadian Private Agencie
 Reusable Space Agency(RSA) | Roshan | SpaceX | 7
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
 American Launch Alliance(ALA) | sodiumbiscuits | ULA | 3
-Hrvatska Kriki Svemirska Agencija(HKSA) | Macanautics(retired), kriki | ESA | 4 + 1
+Hrvatska Kriki Svemirska Agencija(HKSA) | Macanautics(retired), kriki | ESA | 4 + 2
 Ingenuity Space(IS) | Idk1 | Relativity Space | 1
 
 # Factions-
@@ -126,3 +126,4 @@ Sl no. | Mission name | Objective | Agency | Status
 98 | Vega C | Orbital Sat | HKSA | Success
 99 | RSA Contract Launch from UA | Geostationary Sat | RSA | Success
 100 | Zond 1 | Interstellar Probe | CSA | Success
+101 | HKSA Crew 1 | Crewed Orbit and Return | HKSA | Success 
