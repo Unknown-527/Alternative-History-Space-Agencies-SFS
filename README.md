@@ -14,8 +14,8 @@ Untitled Aerospace(UA) | ilikespace | Virgin Galactic | 12
 Canadian Spatial Research Program(CSRP) | velsuki | All Canadian Private Agencies | 1
 Reusable Space Agency(RSA) | Roshan | SpaceX | 7
 Indian Space Administration(ISA) | Unknown_527 | ISRO | 1
-American Launch Alliance(ALA) | sodiumbiscuits | ULA | 3
-Hrvatska Kriki Svemirska Agencija(HKSA) | Macanautics(retired), kriki | ESA | 4 + 2
+American Launch Alliance(ALA) | sodiumbiscuits | ULA | 4
+Hrvatska Kriki Svemirska Agencija(HKSA) | Macanautics(retired), kriki | ESA | 4 + 4
 Ingenuity Space(IS) | Idk1 | Relativity Space | 1
 
 # Factions-
@@ -127,3 +127,6 @@ Sl no. | Mission name | Objective | Agency | Status
 99 | RSA Contract Launch from UA | Geostationary Sat | RSA | Success
 100 | Zond 1 | Interstellar Probe | CSA | Success
 101 | HKSA Crew 1 | Crewed Orbit and Return | HKSA | Success 
+102 | Lunar impactor | Lunar impactor | HKSA | Success
+103 | Copycat | Copied American Space Shuttle test | HKSA | Partial Failure
+104 | LOV | Lunar orbital vehicle | ALA | Success
